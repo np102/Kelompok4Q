@@ -1,2 +1,3 @@
 # Kelompok4Q
-Tubes Kelompok 4, 
+Tubes Kelompok 4 Pemograman Fungsional
+Anggota Kelompok
